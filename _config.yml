@@ -28,10 +28,10 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
-    facebook: studiodm
+  # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
@@ -45,6 +45,7 @@ projects:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
+
 
 topics:
   - name: JavaScript
